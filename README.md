@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bekzat</h1>
 <h3 align="center">𝐈 𝐩𝐨𝐬𝐭 𝐦𝐲 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐡𝐞𝐫𝐞.</h3>
 
-![githublog](https://![Uploading image.png…]()
+![Uploading image.png…]()
 
 
 
