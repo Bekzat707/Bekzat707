@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bekzat</h1>
 <h3 align="center">𝐈 𝐩𝐨𝐬𝐭 𝐦𝐲 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐡𝐞𝐫𝐞.</h3>
 
-(https://github.com/Bekzat707/Bekzat707/assets/157128160/32a8855c-3dfd-4ad2-9368-c6677d6ff37f)
+![Uploading image.png…]()
+
 
 
 
