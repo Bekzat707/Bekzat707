@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Bekzat</h1>
+<h1 align="center">As-salamu alaikum🤝,</h1>
 <h3 align="center">𝐈 𝐩𝐨𝐬𝐭 𝐦𝐲 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐡𝐞𝐫𝐞.</h3>
 
-* 🌍 𝐈'𝐦 𝐛𝐚𝐬𝐞𝐝 𝐢𝐧 𝐊𝐚𝐳𝐚𝐤𝐡𝐬𝐭𝐚𝐧
 * ✉ 𝐘𝐨𝐮 𝐜𝐚𝐧 𝐜𝐨𝐧𝐭𝐚𝐜𝐭 𝐦𝐞 𝐚𝐭 [b\_saparbek@kbtu.kz](mailto:b_saparbek@kbtu.kz)
 
 <h3 align="left">Connect with me:</h3>
