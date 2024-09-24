@@ -1,5 +1,4 @@
 <h1 align="center">As-salamu alaikum🤝,</h1>
-<h3 align="center">𝐈 𝐩𝐨𝐬𝐭 𝐦𝐲 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐡𝐞𝐫𝐞.</h3>
 
 * ✉ 𝐘𝐨𝐮 𝐜𝐚𝐧 𝐜𝐨𝐧𝐭𝐚𝐜𝐭 𝐦𝐞 𝐚𝐭 [b\_saparbek@kbtu.kz](mailto:b_saparbek@kbtu.kz)
 
